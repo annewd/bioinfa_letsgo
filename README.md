@@ -5,4 +5,6 @@
 * Садекова Алиса, Б06-906
 * Лапина Анна, Б06-906
 
+Ссылка на [Google Collab](https://colab.research.google.com/drive/1ygcuVq1TCSv2m9OrID0QOqwLngeAOk3C?usp=sharing)!!!
+
 Надеемся, вам понравится (´｡• ω •｡)
